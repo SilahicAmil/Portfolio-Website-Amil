@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import awspic from "../img/AWSDEV.png";
 
 class Widecard extends Component {
   render() {
@@ -10,6 +11,7 @@ class Widecard extends Component {
           <h4 class="secondtext">
             {this.props.from} - {this.props.to}
           </h4>
+          <h4 class="img">{this.props.img}</h4>
         </div>
       </div>
     );

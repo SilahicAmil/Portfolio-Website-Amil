@@ -11,11 +11,13 @@ class About extends Component {
           Junior Web <u>Developer</u>
         </h3>
         <br></br>
+        <br></br>
         <p>
           I've been intrigued by technology ever since I was young. I was the IT
           before the IT guy, whenever the internet would go down or family had
           computer issues I was the one to fix it.
         </p>
+        <br></br>
         <p>
           I am a Self Taught Web Developer, thanks to Udemy. I first started
           with Colt Steele's "The Web Developer Bootcamp". Learning the ins and
@@ -23,6 +25,7 @@ class About extends Component {
           the, "AWS Certified Developer" course. For which I am now certified
           in! Since then I have kept up my skills and improving day by day.
         </p>
+        <br></br>
         <p>
           I'm quietly confident, naturally curious, and always working on
           improving my skills one bug at a time. I believe with time and
