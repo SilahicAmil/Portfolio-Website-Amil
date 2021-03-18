@@ -8,12 +8,6 @@ class Education extends Component {
       <div className="condiv">
         <h1 className="subtopic">My Education</h1>
         <Widecard
-          title="High School"
-          where="Cyprus High School"
-          from="2015"
-          to="2019"
-        />
-        <Widecard
           title="AWS Certified Developer - Associate"
           from="2021"
           to="2024"
