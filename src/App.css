@@ -82,6 +82,10 @@ nav li {
 .about-me {
   /* display: inline-table; */
   position: var(--condiv-flex);
+  text-align: left;
+}
+
+.about-me-header {
   text-align: center;
 }
 
@@ -90,7 +94,7 @@ nav li {
   font-family: "Raleway";
   font-size: 25px;
   font-weight: bold;
-  text-indent: 5%;
+  /* text-indent: 5%; */
 }
 
 .typingeffect {

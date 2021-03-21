@@ -10,30 +10,29 @@ class About extends Component {
         <img src={profilepic} alt="ProfilePic" className="profilePic"></img>
 
         <div className="about-me">
-          <h4>Hey there,</h4>
-          <h1>I'm Amil Silahic</h1>
+          <div className="about-me-header">
+            <h4>Hey there,</h4>
+            <h1>I'm Amil Silahic</h1>
 
-          <h3>
-            Junior Web <u>Developer</u>
-          </h3>
+            <h3>
+              <u>Junior Web Developer</u>
+            </h3>
+          </div>
 
-          <br></br>
           <br></br>
           <div className="about-me-text">
             <p>
-              I've been intrigued by technology ever since I was young.{" "}
-              <br></br>I was the IT before the IT guy, whenever the internet
-              would go down or family had computer issues I was the one to fix
-              it.
+              I've been intrigued by technology ever since I was young. I was
+              the IT before the IT guy, whenever the internet would go down or
+              family had computer issues I was the one to fix it.
             </p>
             <br></br>
             <p>
-              I am a Self Taught Web Developer, thanks to Udemy. I first started
-              with Colt Steele's "The Web Developer Bootcamp". Learning the ins
-              and outs of Web Development. As well as enrolling in Udemy Pro
-              learning the, "AWS Certified Developer" course. For which I am now
-              certified in! Since then I have kept up my skills and improving
-              day by day.
+              I am a Self Taught Web Developer, thanks to Udemy. Learning the
+              ins and outs of Web Development. As well as enrolling in Udemy Pro
+              for the, "AWS Certified Developer" course by Stephen Marek. For
+              which I am now certified in! Since then I have kept up my skills
+              and improving day by day.
             </p>
             <br></br>
             <p>
