@@ -11,8 +11,9 @@ class Education extends Component {
           title="AWS Certified Developer - Associate"
           from="2021"
           to="2024"
-          img=<img src={awspic} className="widecard"></img>
         />
+
+        <Widecard title="Google IT Support Proffesional" from="2019" to="" />
       </div>
     );
   }
