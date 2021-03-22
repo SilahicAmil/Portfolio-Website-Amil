@@ -79,8 +79,24 @@ nav li:hover{
   margin-bottom: 30px;
 }
 
+<<<<<<< Updated upstream
 nav ul{
   font-size:var(--fontsize-nav) ;
+=======
+.Projects .grid li {
+  display: inline-block;
+  flex-basis: 50%;
+  /* text-align: center; */
+  color: black;
+  font-weight: bold;
+  /* padding: 3%; */
+  /* font-size: 30px; */
+  font-family: "Raleway", sans-serif;
+}
+
+nav ul {
+  font-size: var(--fontsize-nav);
+>>>>>>> Stashed changes
 
   text-align: center;
   list-style-type: none;
